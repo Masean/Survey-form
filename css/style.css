@@ -38,3 +38,23 @@ header p {
   font-style: italic;
   font-weight: 100;
 }
+
+#survey-form {
+  background: rgba(27, 27, 50, 0.8);
+  padding: 50px 40px 60px;
+  border-radius: 4px;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 28px;
+}
+
+.form-control {
+  padding: 8px 12px;
+  margin-top: 5px;
+  border-radius: 7px;
+}
+.form-group input {
+}
