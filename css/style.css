@@ -11,3 +11,8 @@ body::before{
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+body {
+  color: white;
+  font-family: 'Roboto', sans-serif;
+}
